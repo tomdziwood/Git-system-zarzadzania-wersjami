@@ -4,6 +4,7 @@ public class Hello{
 		System.out.println("Ta metoda nic nie zwraca");
 	}
 
+	//metoda zwraca liczbe
 	public int trzy(){
 		return 3; // ta metoda zwraca liczbę 3
 	}
