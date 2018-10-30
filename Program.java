@@ -1,4 +1,5 @@
 public class Hello{
+	//metoda nic nie zwraca
 	public void metoda1(){
 		System.out.println("Ta metoda nic nie zwraca");
 	}
