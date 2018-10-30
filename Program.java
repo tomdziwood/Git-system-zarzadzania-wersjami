@@ -1,3 +1,4 @@
+//klasa 'Hello'
 public class Hello{
 	//metoda nic nie zwraca
 	public void metoda1(){
@@ -9,6 +10,7 @@ public class Hello{
 		return 3; // ta metoda zwraca liczbę 3
 	}
 
+	//metoda zwraca sume dwoch liczb
 	public int suma(int a, int b){
 		return a+b;  //ta metoda zwraca sumę dwóch parametrów
 	}
